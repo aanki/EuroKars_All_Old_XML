@@ -1,0 +1,37 @@
+<centercategory scriptid="custcentercategory_advs_wo_csam_teplm">
+  <center>[scriptid=custcenter_advs_teplm_csam]</center>
+  <centertab>[scriptid=custcentertab_advs_ser_csam_teplm]</centertab>
+  <label>Work Order</label>
+  <links>
+    <link>
+      <linklabel>Work Orders - Open</linklabel>
+      <linkobject>[scriptid=customsearch_advs_work_order_open]</linkobject>
+      <linktasktype>SRCH_RSLT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Work Orders - Open On Hold</linklabel>
+      <linkobject>[scriptid=customsearch_advs_work_order_onhold]</linkobject>
+      <linktasktype>SRCH_RSLT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Work Orders - Closed</linklabel>
+      <linkobject>[scriptid=customsearch_advs_work_order_closed]</linkobject>
+      <linktasktype>SRCH_RSLT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Item Fulfillment - Completed</linklabel>
+      <linkobject>[scriptid=customsearch_advs_item_fullfillment_com]</linkobject>
+      <linktasktype>SRCH_RSLT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Work Order Invoices - Completed</linklabel>
+      <linkobject>[scriptid=customsearch_advs_f_invoice_completed]</linkobject>
+      <linktasktype>SRCH_RSLT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

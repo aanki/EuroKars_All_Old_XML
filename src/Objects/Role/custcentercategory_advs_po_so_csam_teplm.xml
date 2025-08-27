@@ -1,0 +1,61 @@
+<centercategory scriptid="custcentercategory_advs_po_so_csam_teplm">
+  <center>[scriptid=custcenter_advs_teplm_csam]</center>
+  <centertab>[scriptid=custcentertab_advs_ser_csam_teplm]</centertab>
+  <label>Purchase / Sublet</label>
+  <links>
+    <link>
+      <linklabel>Create Sublet Purchase Order</linklabel>
+      <linkobject>[scriptid=custlink_13_9908878_307]</linkobject>
+      <linktasktype>LINK</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Sublet Purchase Orders - Pending Approval</linklabel>
+      <linkobject>[scriptid=customsearch_advs_sublet_purchase_order]</linkobject>
+      <linktasktype>SRCH_RSLT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Sublet Purchase Orders - Open</linklabel>
+      <linkobject>[scriptid=customsearch_advs_sublet_po_open]</linkobject>
+      <linktasktype>SRCH_RSLT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Sublet Purchase Orders - Closed</linklabel>
+      <linkobject>[scriptid=customsearch_advs_sublet_po_close]</linkobject>
+      <linktasktype>SRCH_RSLT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Sublet Receipts-Completed</linklabel>
+      <linkobject>[scriptid=customsearch_advs_sublet_receipts_comp]</linkobject>
+      <linktasktype>SRCH_RSLT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Sublet Vendor Bills - Completed</linklabel>
+      <linkobject>[scriptid=customsearch_advs_sublet_vb_complete]</linkobject>
+      <linktasktype>SRCH_RSLT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Sublet Vendor Return Authorizations - Pending Approval</linklabel>
+      <linkobject>[scriptid=customsearch_advs_sublet_vendor_return]</linkobject>
+      <linktasktype>SRCH_RSLT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Sublet Vendor Return Authorization Open</linklabel>
+      <linkobject>[scriptid=customsearch_advs_sublet_vr_open]</linkobject>
+      <linktasktype>SRCH_RSLT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Sublet Purchase Orders - Pending Billing</linklabel>
+      <linkobject>[scriptid=customsearch_advs_sublet_po_pb]</linkobject>
+      <linktasktype>SRCH_RSLT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

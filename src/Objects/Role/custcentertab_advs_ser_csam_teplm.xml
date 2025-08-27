@@ -1,0 +1,10 @@
+<centertab scriptid="custcentertab_advs_ser_csam_teplm">
+  <allcustomers>F</allcustomers>
+  <allemployees>F</allemployees>
+  <allpartners>F</allpartners>
+  <allroles>T</allroles>
+  <allvendors>F</allvendors>
+  <audslctrole></audslctrole>
+  <center>[scriptid=custcenter_advs_teplm_csam]</center>
+  <label>Service</label>
+</centertab>

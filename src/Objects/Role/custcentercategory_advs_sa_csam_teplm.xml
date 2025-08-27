@@ -1,0 +1,25 @@
+<centercategory scriptid="custcentercategory_advs_sa_csam_teplm">
+  <center>[scriptid=custcenter_advs_teplm_csam]</center>
+  <centertab>[scriptid=custcentertab_advs_ser_csam_teplm]</centertab>
+  <label>Service Appointment</label>
+  <links>
+    <link>
+      <linklabel>Service Appointments - Open</linklabel>
+      <linkobject>[scriptid=customsearch_advs_service_appointment_op]</linkobject>
+      <linktasktype>SRCH_RSLT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Service Appointments - Confirmed</linklabel>
+      <linkobject>[scriptid=customsearch_advs_service_appointment__2]</linkobject>
+      <linktasktype>SRCH_RSLT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Service Appointments - Cancelled</linklabel>
+      <linkobject>[scriptid=customsearch_advs_service_appointment__3]</linkobject>
+      <linktasktype>SRCH_RSLT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

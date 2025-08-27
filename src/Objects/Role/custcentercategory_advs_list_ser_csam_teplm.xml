@@ -1,0 +1,49 @@
+<centercategory scriptid="custcentercategory_advs_list_ser_csam_teplm">
+  <center>[scriptid=custcenter_advs_teplm_csam]</center>
+  <centertab>[scriptid=custcentertab_advs_ser_csam_teplm]</centertab>
+  <label>List</label>
+  <links>
+    <link>
+      <linklabel>New Labor Master</linklabel>
+      <linkobject>[scriptid=custlink_5_9908878_322]</linkobject>
+      <linktasktype>LINK</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Labor Master List</linklabel>
+      <linkobject>[scriptid=customsearch_advs_labor_master]</linkobject>
+      <linktasktype>SRCH_RSLT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>New Sublet Master</linklabel>
+      <linkobject>[scriptid=custlink_11_9908878_886]</linkobject>
+      <linktasktype>LINK</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Sublet Master List</linklabel>
+      <linkobject>[scriptid=customsearch_advs_sublet_master_mazda]</linkobject>
+      <linktasktype>SRCH_RSLT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>New Service Package</linklabel>
+      <linkobject>[scriptid=custlink_18_9908878_375]</linkobject>
+      <linktasktype>LINK</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Service Packages List</linklabel>
+      <linkobject>[scriptid=customrecord_advs_after_sales_package]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Operation Master</linklabel>
+      <linkobject>[scriptid=customrecord_advs_st_labor_aw01]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

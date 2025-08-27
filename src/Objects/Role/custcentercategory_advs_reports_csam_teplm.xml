@@ -1,0 +1,13 @@
+<centercategory scriptid="custcentercategory_advs_reports_csam_teplm">
+  <center>[scriptid=custcenter_advs_teplm_csam]</center>
+  <centertab>[scriptid=custcentertab_advs_ser_csam_teplm]</centertab>
+  <label>Reports</label>
+  <links>
+    <link>
+      <linklabel>Lost Sales Report_Service</linklabel>
+      <linkobject>[scriptid=customsearch_advs_lost_sales]</linkobject>
+      <linktasktype>SRCH_RSLT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

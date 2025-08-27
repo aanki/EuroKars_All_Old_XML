@@ -1,0 +1,13 @@
+<centercategory scriptid="custcentercategory_advs_setup_csam_teplm">
+  <center>[scriptid=custcenter_advs_teplm_csam]</center>
+  <centertab>[scriptid=custcentertab_advs_ser_csam_teplm]</centertab>
+  <label>Set Up</label>
+  <links>
+    <link>
+      <linklabel>Labour FRU Rate Set Up</linklabel>
+      <linkobject>[scriptid=customrecord_advs_st_labor_fru_rate]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

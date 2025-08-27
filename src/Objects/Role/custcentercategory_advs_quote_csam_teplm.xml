@@ -1,0 +1,25 @@
+<centercategory scriptid="custcentercategory_advs_quote_csam_teplm">
+  <center>[scriptid=custcenter_advs_teplm_csam]</center>
+  <centertab>[scriptid=custcentertab_advs_ser_csam_teplm]</centertab>
+  <label>Quotation</label>
+  <links>
+    <link>
+      <linklabel>Service Quotation - Open</linklabel>
+      <linkobject>[scriptid=customsearch_advs_service_estimate_mazda]</linkobject>
+      <linktasktype>SRCH_RSLT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Service Quotation - Closed</linklabel>
+      <linkobject>[scriptid=customsearch_advs_service_est_cl_mazda]</linkobject>
+      <linktasktype>SRCH_RSLT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Service Quotation - ALL</linklabel>
+      <linkobject>[scriptid=customsearch_advs_service_est_all_mazda]</linkobject>
+      <linktasktype>SRCH_RSLT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>
